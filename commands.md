@@ -6,3 +6,5 @@ echo - display or print on terminal
 man - display mannual of any program/ command
 exit - to exit from any file
 clear - to clear the terminal
+            
+            
